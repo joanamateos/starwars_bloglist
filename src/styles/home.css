@@ -1,0 +1,20 @@
+.heading {
+    color: rgb(197, 31, 31);
+}
+
+.card {
+    width: 20rem;
+}
+
+.likeBtn {
+    float: right;
+}
+
+.overFlow {
+    overflow: auto;
+}
+
+h3{
+    color:rgb(77, 26, 141);
+    font-weight: 700;
+}
